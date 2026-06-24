@@ -1,0 +1,5 @@
+# Python 虛擬環境
+.venv/
+
+# 環境變數檔案（含 API Key 等敏感資訊）
+.env
